@@ -1,3 +1,8 @@
+## Launch tensorboard
+```console
+tensorboard --logdir=path/to/log-directory
+```
+
 ## Use tensorbord with pytorch
 Install <b>tensorboardx</b> at https://github.com/lanpa/tensorboardX.<br>
 
