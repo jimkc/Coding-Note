@@ -12,4 +12,4 @@ Then, on your local machine (browser) simply open <br>
 ```console
 http://127.0.0.1:16006/
 ```
-<b>Reference:</b>https://gist.github.com/sflender/b7f2f740803924cb8672f7018a4c85eb.
+<b>Reference:</b> https://gist.github.com/sflender/b7f2f740803924cb8672f7018a4c85eb.
